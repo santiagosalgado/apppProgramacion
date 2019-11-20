@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary3", "ClassLibra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apptareaclase", "apptareaclase\apptareaclase.csproj", "{5D454B99-008B-4298-8DB3-AAF5DC65AA46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tareadeformulageneral", "Tareadeformulageneral\Tareadeformulageneral.csproj", "{7EE9C163-0508-472E-9494-F4C4556B1EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea2", "tarea2\tarea2.csproj", "{B6F6BB35-FC06-4A92-B298-A20EA92F96B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5D454B99-008B-4298-8DB3-AAF5DC65AA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D454B99-008B-4298-8DB3-AAF5DC65AA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D454B99-008B-4298-8DB3-AAF5DC65AA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE9C163-0508-472E-9494-F4C4556B1EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE9C163-0508-472E-9494-F4C4556B1EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE9C163-0508-472E-9494-F4C4556B1EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE9C163-0508-472E-9494-F4C4556B1EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F6BB35-FC06-4A92-B298-A20EA92F96B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F6BB35-FC06-4A92-B298-A20EA92F96B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F6BB35-FC06-4A92-B298-A20EA92F96B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F6BB35-FC06-4A92-B298-A20EA92F96B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
